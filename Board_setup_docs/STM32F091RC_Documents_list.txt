@@ -1,0 +1,9 @@
+
+Document Title:  		STM32F091RC Mainstream Arm Cortex-M0 Access line MCU with 256 Kbytes of Flash memory, 48 MHz CPU, CAN and CEC functions
+STMicroelectronics web URL:	https://www.st.com/en/microcontrollers-microprocessors/stm32f091rc.html
+
+Document Title:			UM1724 User manual STM32 Nucleo-64 boards (MB1136)
+STMicroelectronics web URL:	https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.st.com/resource/en/user_manual/um1724-stm32-nucleo64-boards-mb1136-stmicroelectronics.pdf&ved=2ahUKEwi5zc7w3LyLAxV2GjQIHZlrKu8QFnoECBUQAQ&usg=AOvVaw34MlYBEEaYllhNpOzFjjEH
+
+Document Title:			STM32F091xB STM32F091xC ARM®-based 32-bit MCU, up to 256 KB Flash, CAN, 12 timers, ADC, DAC, and comm. interfaces, 2.0 - 3.6V
+STMicroelectronics web URL:	https://www.st.com/resource/en/datasheet/stm32f091rc.pdf
